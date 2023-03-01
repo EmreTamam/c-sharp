@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\variables\\variables.csproj": {}
+    "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\operators\\operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\variables\\variables.csproj": {
+    "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\operators\\operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\variables\\variables.csproj",
-        "projectName": "variables",
-        "projectPath": "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\variables\\variables.csproj",
+        "projectUniqueName": "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\operators\\operators.csproj",
+        "projectName": "operators",
+        "projectPath": "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\operators\\operators.csproj",
         "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\variables\\obj\\",
+        "outputPath": "C:\\Users\\Emre\\Desktop\\Code\\c#\\patika\\operators\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
