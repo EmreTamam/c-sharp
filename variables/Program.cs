@@ -7,7 +7,7 @@ namespace variables
         static void Main(string[] args)
         {
         
-            string kelime = "ömür";
+            string kelime = "test";
             Console.WriteLine(kelime);
 
             //       Veri Tipleri
