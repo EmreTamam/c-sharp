@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\bin\Debug\net7.0\donusumler.exe
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\bin\Debug\net7.0\donusumler.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\bin\Debug\net7.0\donusumler.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\bin\Debug\net7.0\donusumler.dll
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\bin\Debug\net7.0\donusumler.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\donusumler.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\donusumler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\donusumler.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\donusumler.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\donusumler.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\donusumler.dll
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\refint\donusumler.dll
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\donusumler.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\donusumler.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\donusumler\obj\Debug\net7.0\ref\donusumler.dll
