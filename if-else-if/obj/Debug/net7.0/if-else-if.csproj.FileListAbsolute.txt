@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\bin\Debug\net7.0\if-else-if.exe
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\bin\Debug\net7.0\if-else-if.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\bin\Debug\net7.0\if-else-if.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\bin\Debug\net7.0\if-else-if.dll
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\bin\Debug\net7.0\if-else-if.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\if-else-if.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\if-else-if.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\if-else-if.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\if-else-if.dll
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\refint\if-else-if.dll
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\if-else-if.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\if-else-if.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\if-else-if\obj\Debug\net7.0\ref\if-else-if.dll
