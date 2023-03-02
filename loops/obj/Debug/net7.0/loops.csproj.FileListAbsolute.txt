@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\loops\bin\Debug\net7.0\loops.exe
+C:\Users\Emre\Desktop\Code\c#\patika\loops\bin\Debug\net7.0\loops.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\loops\bin\Debug\net7.0\loops.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\loops\bin\Debug\net7.0\loops.dll
+C:\Users\Emre\Desktop\Code\c#\patika\loops\bin\Debug\net7.0\loops.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\loops.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\loops.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\loops.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\loops.dll
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\refint\loops.dll
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\loops.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\loops.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\loops\obj\Debug\net7.0\ref\loops.dll
