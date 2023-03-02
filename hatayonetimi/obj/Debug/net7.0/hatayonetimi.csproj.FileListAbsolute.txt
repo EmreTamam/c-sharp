@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\bin\Debug\net7.0\hatayonetimi.exe
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\bin\Debug\net7.0\hatayonetimi.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\bin\Debug\net7.0\hatayonetimi.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\bin\Debug\net7.0\hatayonetimi.dll
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\bin\Debug\net7.0\hatayonetimi.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\hatayonetimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\hatayonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\hatayonetimi.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\hatayonetimi.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\hatayonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\hatayonetimi.dll
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\refint\hatayonetimi.dll
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\hatayonetimi.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\hatayonetimi.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\hatayonetimi\obj\Debug\net7.0\ref\hatayonetimi.dll
