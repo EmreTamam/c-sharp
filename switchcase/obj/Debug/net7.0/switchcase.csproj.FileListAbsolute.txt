@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\bin\Debug\net7.0\switchcase.exe
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\bin\Debug\net7.0\switchcase.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\bin\Debug\net7.0\switchcase.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\bin\Debug\net7.0\switchcase.dll
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\bin\Debug\net7.0\switchcase.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\switchcase.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\switchcase.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\switchcase.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\switchcase.dll
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\refint\switchcase.dll
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\switchcase.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\switchcase.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\switchcase\obj\Debug\net7.0\ref\switchcase.dll
