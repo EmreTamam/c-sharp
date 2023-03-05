@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\bin\Debug\net7.0\arrayclass.exe
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\bin\Debug\net7.0\arrayclass.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\bin\Debug\net7.0\arrayclass.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\bin\Debug\net7.0\arrayclass.dll
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\bin\Debug\net7.0\arrayclass.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\arrayclass.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\arrayclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\arrayclass.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\arrayclass.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\arrayclass.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\arrayclass.dll
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\refint\arrayclass.dll
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\arrayclass.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\arrayclass.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\arrayclass\obj\Debug\net7.0\ref\arrayclass.dll
