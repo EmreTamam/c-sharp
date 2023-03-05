@@ -19,13 +19,30 @@ class Program
         Methods inst = new Methods();
         inst.Topla(2,3, out int toplamsonuc);
         Console.WriteLine(toplamsonuc);
+
+        //Method Overloading
+
+        int ifade = 999;
+        inst.EkranaYazir(ifade);
+
+        //Metot İmzası
+        // metotAdi + parametre sayisi + paramtre
     }
 }
 
 class Methods
 {
-    public int Topla(int a, int b, out int toplam)
+    public void Topla(int a, int b, out int toplam)
     {
         toplam = a+b;
+    }
+
+    public void EkranaYazir(string veri)
+    {
+        Console.WriteLine(veri);
+    }
+    public void EkranaYazir(int veri)
+    {
+        Console.WriteLine(veri);
     }
 }
