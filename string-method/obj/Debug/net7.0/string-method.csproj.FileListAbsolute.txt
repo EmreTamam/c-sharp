@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\bin\Debug\net7.0\string-method.exe
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\bin\Debug\net7.0\string-method.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\bin\Debug\net7.0\string-method.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\bin\Debug\net7.0\string-method.dll
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\bin\Debug\net7.0\string-method.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\string-method.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\string-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\string-method.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\string-method.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\string-method.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\string-method.dll
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\refint\string-method.dll
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\string-method.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\string-method.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\string-method\obj\Debug\net7.0\ref\string-method.dll
