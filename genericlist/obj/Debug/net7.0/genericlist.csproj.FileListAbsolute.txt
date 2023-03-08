@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\bin\Debug\net7.0\genericlist.exe
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\bin\Debug\net7.0\genericlist.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\bin\Debug\net7.0\genericlist.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\bin\Debug\net7.0\genericlist.dll
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\bin\Debug\net7.0\genericlist.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\genericlist.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\genericlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\genericlist.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\genericlist.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\genericlist.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\genericlist.dll
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\refint\genericlist.dll
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\genericlist.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\genericlist.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\genericlist\obj\Debug\net7.0\ref\genericlist.dll
