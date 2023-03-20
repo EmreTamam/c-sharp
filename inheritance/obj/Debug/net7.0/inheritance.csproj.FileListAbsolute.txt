@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\bin\Debug\net7.0\inheritance.exe
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\bin\Debug\net7.0\inheritance.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\bin\Debug\net7.0\inheritance.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\bin\Debug\net7.0\inheritance.dll
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\bin\Debug\net7.0\inheritance.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\inheritance.dll
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\refint\inheritance.dll
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\inheritance.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\inheritance.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\inheritance\obj\Debug\net7.0\ref\inheritance.dll
