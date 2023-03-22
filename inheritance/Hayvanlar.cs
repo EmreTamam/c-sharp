@@ -6,6 +6,12 @@ public class Hayvanlar:Canlılar
     {
         Console.WriteLine("Hayvanlar adapte sürecine girer.");
     }
+
+    public override void UyaranlaraTepki()
+    {
+        base.UyaranlaraTepki();
+        Console.WriteLine("Hayvanlar temasa tepki verir.");
+    }
 }
 
 public class Sürüngenler:Hayvanlar
@@ -27,6 +33,7 @@ public class Kuslar:Hayvanlar
         base.Adaptasyon();
         base.Beslenme();
         base.Solunum();
+        base.UyaranlaraTepki();
     }
     public void UcarakHareket()
     {

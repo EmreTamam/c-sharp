@@ -11,4 +11,9 @@ public class Canlılar
     {
         Console.WriteLine("canlılar solunum yapar");
     }
+
+    public virtual void UyaranlaraTepki()
+    {
+        Console.WriteLine("Canlılar uyarılara tepki verir.");
+    }
 }

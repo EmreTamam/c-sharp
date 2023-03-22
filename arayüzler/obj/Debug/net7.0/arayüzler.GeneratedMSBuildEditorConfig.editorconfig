@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = inheritance
-build_property.ProjectDir = c:\Users\Emre\Desktop\Code\c#\patika\inheritance\
+build_property.RootNamespace = arayüzler
+build_property.ProjectDir = c:\Users\Emre\Desktop\Code\c#\patika\arayüzler\

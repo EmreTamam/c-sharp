@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\bin\Debug\net7.0\telefonrehberi.exe
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\bin\Debug\net7.0\telefonrehberi.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\bin\Debug\net7.0\telefonrehberi.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\bin\Debug\net7.0\telefonrehberi.dll
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\bin\Debug\net7.0\telefonrehberi.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\telefonrehberi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\telefonrehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\telefonrehberi.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\telefonrehberi.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\telefonrehberi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\telefonrehberi.dll
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\refint\telefonrehberi.dll
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\telefonrehberi.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\telefonrehberi.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\telefonrehberi\obj\Debug\net7.0\ref\telefonrehberi.dll

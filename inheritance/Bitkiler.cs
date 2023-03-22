@@ -6,6 +6,11 @@ public class Bitkiler:Canlılar
     {
         Console.WriteLine("Bitkiler Fotosentez yapar.");
     }
+
+    public override void UyaranlaraTepki()
+    {
+        base.UyaranlaraTepki();
+    }
 }
 
 public class TohumluBitkiler:Bitkiler
@@ -14,6 +19,7 @@ public class TohumluBitkiler:Bitkiler
         base.Beslenme();
         base.Fotosentez();
         base.Solunum();
+        base.UyaranlaraTepki();
     }
     public void TohumlaCogalma()
     {
