@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\bin\Debug\net7.0\toDo.exe
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\bin\Debug\net7.0\toDo.deps.json
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\bin\Debug\net7.0\toDo.runtimeconfig.json
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\bin\Debug\net7.0\toDo.dll
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\bin\Debug\net7.0\toDo.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\toDo.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\toDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\toDo.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\toDo.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\toDo.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\toDo.dll
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\refint\toDo.dll
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\toDo.pdb
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\toDo.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Code\c#\patika\toDo\obj\Debug\net7.0\ref\toDo.dll
